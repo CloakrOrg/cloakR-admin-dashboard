@@ -82,7 +82,7 @@ export default function Navbar() {
                 />
               </MenuButton>
               <MenuList>
-                <MenuItem>Account</MenuItem>
+                <MenuItem>Profile</MenuItem>
                 <MenuItem>Sign Out</MenuItem>
               </MenuList>
             </Menu>

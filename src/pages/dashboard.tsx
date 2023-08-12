@@ -19,7 +19,7 @@ export default function Dashboard() {
         <Box p="10" width="100%">
           <Tabs isFitted size='lg' variant="enclosed">
             <TabList>
-              <Tab fontSize={'2xl'} onClick={() => setCurrentTab(0)}>Requested</Tab>
+              <Tab fontSize={'2xl'} onClick={() => setCurrentTab(0)}>Request</Tab>
               <Tab fontSize={'2xl'} onClick={() => setCurrentTab(1)}>Response</Tab>
             </TabList>
             <TabPanels>
